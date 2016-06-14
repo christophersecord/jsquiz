@@ -2,7 +2,7 @@
  *  Tests the Car and RentalCarCompany classes.
  * 
  * @author Akeem Richard
- * @version 1.0
+ * @version 280.0
  * 
  * COP5007 Project 2
  * File Name: RentalCarTester.java
